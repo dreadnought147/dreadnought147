@@ -19,7 +19,7 @@ Most of my work lives in the space between structured logic and human need—whe
 ## Recent Work
 
 **[Capstone: Freelance managemnet platform](https://lanceapp-bah9ctdnd4d7grhb.southafricanorth-01.azurewebsites.net)**  
-Web app for tracking student housing issues. Built with Node.js, Express, SQLite. Features include admin dashboard, issue status updates, CSV export, and smart categorization logic.
+A comprehensive web application connecting clients with freelancers, enabling job posting, application, management, and payments with admin oversight.
 
 ---
 
