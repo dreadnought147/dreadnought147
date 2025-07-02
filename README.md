@@ -3,16 +3,12 @@
 
 Computer Science student focused on systems thinking, backend development, and building practical tools for real-world coordination problems.
 
-Most of my work lives in the space between structured logic and human need—where a well-placed script or data pipeline can simplify what feels chaotic.
-
----
-
 ## Interests
 
-- Backend-first tools with clean, minimal interfaces  
-- Property tech and student infrastructure systems  
-- Applying ML to automate classification and feedback loops  
-- Using software to expose patterns and workflows worth improving
+- data science
+- software enginnering
+- systems
+- basketball
 
 ---
 
