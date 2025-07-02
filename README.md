@@ -18,7 +18,7 @@ Most of my work lives in the space between structured logic and human need—whe
 
 ## Recent Work
 
-**[Capstone: Smart Issue Tracker](https://github.com/yourusername/smart-issue-tracker)**  
+**[Capstone: Freelance managemnet platform](https://lanceapp-bah9ctdnd4d7grhb.southafricanorth-01.azurewebsites.net)**  
 Web app for tracking student housing issues. Built with Node.js, Express, SQLite. Features include admin dashboard, issue status updates, CSV export, and smart categorization logic.
 
 ---
