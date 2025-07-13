@@ -20,6 +20,14 @@ A comprehensive web application connecting clients with freelancers, enabling jo
 **[Smart Issue Tracker](https://github.com/dreadnought147/crescent-tracker)**  =
 Web app for tracking student housing issues. Built with Node.js, Express, SQLite. Features include admin dashboard, issue status updates, CSV export, and smart categorization logic.
 
+# Wits Park Test
+
+Wits Park Test is a mobile application developed as a second-year project for the first semester. The app was designed to assist students and staff at Wits University with real-time parking management. Users can check available parking bays, book parking where applicable, or submit availability if they are vacating a bay.
+This application was not deployed to the Google Play Store. It was tested and deployed locally using Android Studio, with APK builds installed on physical Android devices. A demo video is available to showcase core functionality and workflows.
+
+**Demo Video:** [Watch here (link to be added)](https://drive.google.com/file/d/10y-_Llw4rzt4q7jpjhHVZrWaxhqANVT8/view?usp=sharing)
+
+
 <!--
 **dreadnought147/dreadnought147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
