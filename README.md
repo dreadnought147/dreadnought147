@@ -29,6 +29,12 @@ A demo video is available to showcase core functionality and workflows.
 please feel free to skim the video.
 Demo Video:[Watch here (link to be added)](https://drive.google.com/file/d/10y-_Llw4rzt4q7jpjhHVZrWaxhqANVT8/view?usp=sharing)
 
+ a **[Skills Analytics & Unemployment Forecasting Dashboard for South Afric](https://github.com/dreadnought147/crescent-tracker)**
+Interactive dashboard for analyzing workforce skills, gaps, and unemployment trends across provinces. Uses simulated data for demonstration, as real market endpoints are currently unavailable. Built with Streamlit, pandas, scikit-learn, matplotlib, plotly, and TensorFlow.
+The dashboard helps visualize skill shortages, critical skills distribution, and forecasts the impact of education on employment, supporting data-driven policy and development strategies.
+
+
+
 
 <!--
 **dreadnought147/dreadnought147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
