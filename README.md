@@ -1,52 +1,31 @@
-## Hi there 👋
-# My Grimoire
+# Hi there 👋 I'm Banele Mkhize
 
-My name is Banele Mkhize i am a Computer Science student focused on systems thinking, backend development, and building practical tools for real-world problems.
+Final-year Computer Science student with a passion for systems thinking and building practical solutions that solve real-world problems. I love leveraging technology to create meaningful impact, especially in **proptech** and **fintech** spaces.
 
-## Interests
+## What drives me 
+- **Problem-solving through code** - Always curious, always building
+- **Data science & systems engineering** - Finding patterns and building robust architectures  
+- **Applied mathematics** - Using math to power smarter solutions
+- **Sports enthusiast** - Football & basketball keep me balanced
 
-- data science
-- software enginnering
-- systems
-- football
-- basketball
+*Currently sharpening my skills across the tech stack while exploring every corner of computer science I can get my hands on.*
 
 ---
 
-## Recent Work
+## Recent Projects 🛠
 
-**[Capstone: Freelance managemnet platform](https://lanceapp-bah9ctdnd4d7grhb.southafricanorth-01.azurewebsites.net)**  
-A comprehensive web application connecting clients with freelancers, enabling job posting, application, management, and payments with admin oversight.
+**[Freelance Management Platform](https://lanceapp-bah9ctdnd4d7grhb.southafricanorth-01.azurewebsites.net)** *(Capstone Project)*  
+Full-stack web application connecting clients with freelancers. Features job posting, application management, payments, and admin oversight - built to handle the complete freelance workflow.
 
-**[Smart Issue Tracker](https://github.com/dreadnought147/crescent-tracker)**  =
-Web app for tracking student housing issues. Built with Node.js, Express, SQLite. Features include admin dashboard, issue status updates, CSV export, and smart categorization logic.
+**[Smart Issue Tracker](https://github.com/dreadnought147/crescent-tracker)**  
+Student housing issue management system with intelligent categorization. Built with Node.js, Express, SQLite. Includes admin dashboard, real-time updates, and CSV reporting.
 
-Wits Park App - is a mobile application developed as a second-year project for the first semester.
- The app was designed to assist students and staff at Wits University with real-time parking management.
- Users can check available parking bays, book parking where applicable, or submit availability if they are vacating a bay.
-This application was not deployed to the Google Play Store. It was tested and deployed locally using Android Studio, with APK builds installed on physical Android devices. 
-A demo video is available to showcase core functionality and workflows.
-please feel free to skim the video.
-Demo Video:[Watch here (link to be added)](https://drive.google.com/file/d/10y-_Llw4rzt4q7jpjhHVZrWaxhqANVT8/view?usp=sharing)
+**Wits Park App** *(Mobile Development)*  
+Real-time parking management system for university campus. Android app enabling students to check availability, book spots, and report when leaving. [Demo video](https://drive.google.com/file/d/10y-_Llw4rzt4q7jpjhHVZrWaxhqANVT8/view?usp=sharing) showcases core functionality.
 
- a **[Skills Analytics & Unemployment Forecasting Dashboard for South Afric](https://github.com/dreadnought147/crescent-tracker)**
-Interactive dashboard for analyzing workforce skills, gaps, and unemployment trends across provinces. Uses simulated data for demonstration, as real market endpoints are currently unavailable. Built with Streamlit, pandas, scikit-learn, matplotlib, plotly, and TensorFlow.
-The dashboard helps visualize skill shortages, critical skills distribution, and forecasts the impact of education on employment, supporting data-driven policy and development strategies.
+**[Skills Analytics Dashboard](https://github.com/dreadnought147/SA-Skills)**  
+Interactive workforce analytics platform using ML to forecast unemployment trends across South African provinces. Built with Streamlit, scikit-learn, TensorFlow - demonstrates data-driven policy insights.
 
+---
 
-
-
-<!--
-**dreadnought147/dreadnought147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Always building, always learning. Currently exploring how technology can reshape property and financial services while developing my ability to create comprehensive, well-rounded solutions.*
