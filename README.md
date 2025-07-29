@@ -24,7 +24,7 @@ Student housing issue management system with intelligent categorization. Built w
 **Wits Park App** *(Mobile Development)*  
 Real-time parking management system for university campus. Android app enabling students to check availability, book spots, and report when leaving. [Demo video](https://drive.google.com/file/d/10y-_Llw4rzt4q7jpjhHVZrWaxhqANVT8/view?usp=sharing) showcases core functionality.
 
-**[Skills Analytics Dashboard](https://github.com/dreadnought147/SA-Skills)**  
+**[Skills Analytics Dashboard](https://github.com/dreadnought147/SA-Skills-dash)**  
 Interactive workforce analytics platform using ML to forecast unemployment trends across South African provinces. Built with Streamlit, scikit-learn, TensorFlow - demonstrates data-driven policy insights.
 
 ---
