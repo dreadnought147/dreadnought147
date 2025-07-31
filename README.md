@@ -16,6 +16,7 @@ Final-year Computer Science student with a passion for systems thinking and buil
 ## Recent Projects 🛠
 
 **[Freelance Management Platform](https://lanceapp-bah9ctdnd4d7grhb.southafricanorth-01.azurewebsites.net)** *(Capstone Project)*  
+find the repository [here](https://github.com/Thuthu-KII/Lance?tab=readme-ov-file)
 Full-stack web application connecting clients with freelancers. Features job posting, application management, payments, and admin oversight - built to handle the complete freelance workflow.
 
 **[Smart Issue Tracker](https://github.com/dreadnought147/crescent-tracker)**  
