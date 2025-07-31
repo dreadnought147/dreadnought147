@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Banele Mkhize, this is my code grimoire, would like to think im still a bronze, working my way to silver level
+# Hi there 👋 I'm Banele Mkhize, this is my code grimoire
 
 
 Final-year Computer Science student with a passion for systems thinking and building practical solutions that solve real-world problems. I love leveraging technology to create meaningful impact, especially in **proptech** and **fintech** spaces.
