@@ -31,4 +31,4 @@ Interactive workforce analytics platform using ML to forecast unemployment trend
 
 ---
 
-*Always building, always learning. Currently exploring how technology can reshape property and financial services while developing my ability to create comprehensive, well-rounded solutions.*
+
